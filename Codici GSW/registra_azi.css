@@ -1,0 +1,27 @@
+*{
+	font-family:Arial;
+	X_border:solid red; 
+}
+
+div#logo{
+	background-image:url("logo.jpg");
+	background-position:top center;
+	height:70px;
+	width:150px;
+	background-repeat:no-repeat;
+}
+div#link{
+	margin-top:-10px;
+}
+div#modulo{
+	margin-left:500px;
+	margin-top:-50px;
+	height:150px;
+}
+table#table{
+	line-height:2em;
+}
+div#istr{
+	margin-top:500px;
+	color:red;
+}	

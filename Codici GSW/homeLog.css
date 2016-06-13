@@ -1,0 +1,151 @@
+div{
+	border:1px solid red;
+}
+div#body{
+	position:relative;
+	width:100%;
+	height:100%;
+}
+
+div#back-image{
+	position:fixed;
+	background-image:url(home.gif);
+	background-repeat:no-repeat;
+	width:35%;
+	height:50%;
+	left:30%;
+	top:30%;
+}
+
+
+div#header{
+		position:fixed;
+		width:100%;
+		height:20%;
+		
+}
+div#logo{
+	position:fixed;
+	width:20%;
+	height:20%;
+	border:1px solid green;
+	
+}
+
+div#logo1{
+	position:absolute;
+	background-image:url(gsw.gif);
+	background-repeat:no-repeat;
+	border:1px solid yellow;
+	text-align:center;
+	width:100%;
+	height:100%;
+	
+}
+div#affidabile{
+	position:fixed;
+	background-image:url(affidabilita.gif);
+	background-repeat:no-repeat;
+	width:35%;
+	height:10%;
+	left:30%;
+}
+span#testo{
+	border:1px solid yellow;
+	position:fixed;
+	top:12%;
+	right:0;
+	left:30%;
+	bottom:auto;
+	text-align:justify;
+	width:35%;
+	height:auto;
+}
+div#benvenuto{
+	position:fixed;
+	width:20%;
+	height:10%;
+	border:1px solid navy;
+	right:10%;
+}
+span#loggato{
+	position:absolute;
+	font-size:15pt;
+	font-family:"Apple Chancery",arial,sans-serif;
+	top:10%;
+}
+a#logout{
+	position:absolute;
+	left:40%;
+	bottom:0;
+	font-family:"Handwriting - Dakota";
+}
+div#sidebar{
+	position:fixed;
+	width:20%;
+	height:70%;
+	top:20%;
+	text-align:center;
+}
+a{
+	font-family:arial,sans-serif;
+	font-size:12pt;
+}
+span#home{
+	position:absolute;
+	top:10%;
+	left:30%;
+	
+}
+span.menu{
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	position:absolute;
+	font-family:arial,sans-serif;
+	font-size:16pt;
+}
+span#company{
+	top:30%;
+	width:auto;
+	height:auto;
+	left:0;
+}
+span#info{
+	position:absolute;
+	top:150%;
+	width:auto;
+	height:auto;
+	left:0;
+	
+}
+span#tecnology{
+	top:50%;
+	width:auto;
+	height:auto;
+	left:0;
+}
+span#servizi{
+	position:absolute;
+	top:150%;
+	left:0%;
+	width:200%;
+	text-align:left;
+	height:auto;
+	left:0;
+	
+}
+span#account{
+	top:70%;
+	width:auto;
+	height:auto;
+	left:0;
+}
+span#registrati{
+	position:absolute;
+	top:150%;
+	left:0%;
+	width:200%;
+	text-align:left;
+	height:auto;
+	left:0;
+}

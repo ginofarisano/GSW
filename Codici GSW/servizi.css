@@ -1,0 +1,141 @@
+/*
+tutti i div hanno il carattere settato a Arial
+*/
+div{
+	//border:1px solid red;
+	font-family:arial,serif;
+}
+/*
+tutti
+*/
+A{
+	font-family:arial,serif;
+}
+
+div#infos {
+	position:fixed;
+	top:0%;
+	left:0%;
+}
+
+div#div0{
+	margin-left:435px;
+	background-image: url("chisiamo.gif");
+	background-repeat:no-repeat;
+	position:center;
+	width:250px;
+	height:120px;
+	
+}
+
+div#div1{
+	margin-left:460px;
+	margin-top:-10px;
+	width:500px;
+	height:85px;
+	text-align:center;
+}
+p#p0{
+	text-align:justify;
+}
+
+
+div#ps{
+	margin-top:10px;
+	margin-left:460px;
+	width:450px;
+	height:470px;
+}
+span#testo{
+	text-align:justify;
+	font-family:arial,serif;
+}
+p#p1{
+	margin-left:40px;
+	font-size:18px;
+	
+}
+
+input[type="text"]{
+	margin:10px;
+	margin-left:2px;
+}
+input [type="password"]{
+	margin:10px;
+	margin-left:2px;
+}
+
+span#sp1{
+	font-family:arial;
+	font-size:14px;
+}
+
+div#div3{
+	margin-top:-680px;
+	background-image: url("gsw.gif");
+	background-repeat:no-repeat;
+	background-position:center;
+	width:150px;
+	height:60px;
+}
+
+div#gsw{
+	margin-top:150px;
+	margin-left:10px;
+	width:150px;
+}
+A#a1{
+
+	font-size:14px;
+	margin-top:700px;
+	margin-left:20px;
+}
+
+div#div4{
+	margin-top:100px;
+	
+	border-top:1px solid black;
+	border-bottom:1px solid black;	
+	width:120px;
+}
+
+p#p2{
+	text-align:center;
+	font-size:25px;
+	margin:1px;
+}
+
+A#a2{
+
+	font-size:14px;
+	margin-top:-200px;
+	margin-left:40px;
+}
+
+div#div5{
+	margin-top:50px;
+	border-top:1px solid black;
+	border-bottom:1px solid black;	
+	width:130px;
+}
+A#a3{
+	
+	font-size:14px;
+	margin-top:-200px;
+	
+}
+
+div#div6{
+	margin-top:50px;
+
+	border-top:1px solid black;
+	border-bottom:1px solid black;	
+	width:120px;
+}
+A#a4{
+	
+	font-size:14px;
+	margin-top:-200px;
+	margin-left:30px;
+}
+

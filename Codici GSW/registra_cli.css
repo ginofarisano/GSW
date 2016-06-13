@@ -1,0 +1,73 @@
+*{
+	font-family:Arial;
+	X_//border:solid red; 
+	position:scroll;
+}
+div#generale{
+	position:scroll;
+	width:100%;
+	height:100%;
+	////border:1px solid red;
+}
+div#modulo{
+	position:scroll;
+	margin-left:550px;
+}
+table#table{
+	line-height:2em;
+	position:scroll;
+
+}
+div#istr{
+	position:fixed;
+	bottom:5%;
+	color:red;
+}
+div#header{
+		position:fixed;
+		width:30%;
+		height:20%;
+		
+}
+div#logo{
+	position:fixed;
+	width:20%;
+	height:20%;
+	//border:1px solid green;
+	
+}
+
+div#logo1{
+	position:absolute;
+	background-image:url(gsw.gif);
+	background-repeat:no-repeat;
+	//border:1px solid yellow;
+	text-align:center;
+	width:100%;
+	height:100%;
+	
+}
+div#sidebar{
+	position:fixed;
+	width:20%;
+	height:70%;
+	top:20%;
+	text-align:center;
+}
+span#home{
+	position:absolute;
+	top:10%;
+	left:30%;
+	
+}
+
+span.hidden{
+  display: none;
+}
+
+span.error{
+  display: block;
+  color: black;
+  background-color: red;  
+	font-size:8pt;
+}

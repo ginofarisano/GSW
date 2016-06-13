@@ -1,0 +1,78 @@
+*{
+	font-family:Arial;
+}	
+div#collegamenti{
+	position:fixed;
+	top:20%;
+	line-height:2em;
+}
+div#home{
+	position:fixed;
+	width:10%;
+	height:10%;
+	top:0;
+	right:0;
+}
+div#infos {
+	position:fixed;
+	top:0%;
+	left:0%;
+}
+div#risp_coll{
+	position:fixed;
+	top:28%;
+	left:17%;
+
+}
+div#graffa{
+	background-image:url("graffa.jpg");
+	margin-left:170px;
+	margin-top:-150px;
+	width:45px;
+	height:150px;
+	X_border:solid red;
+	background-repeat:no-repeat;
+}
+div#cliente{
+	position:fixed;
+	top:20%;
+	left:20%;
+}
+#inserisci{
+	position:fixed;
+	top:28.5%;
+	left:40%;
+}
+#table{
+	position:fixed;
+	top:60%;
+	left:0%;
+	right:10%;
+	text_align:center;
+	
+}
+div#freccia{
+	background-image:url(freccia.jpg);
+	X_border:solid red;
+	position:fixed;
+	top:28%;
+	left:30%;
+	width:73px;
+	height:30px;
+	background-repeat:no-repeat;
+	visibility:hidden;
+}
+div#tabella{
+	X_border:solid red;
+	margin-left: 300px;
+	margin-top:150px;
+}	
+div#cancella_cli{
+	margin-left:1150px;
+	margin-top: 10px;
+}
+div#tabella_app{
+	position:fixed;
+	left:37%;
+	top:28%;
+}
